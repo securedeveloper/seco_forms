@@ -1,0 +1,24 @@
+/* 
+    Created on : Feb 3, 2016, 2:58:52 PM
+    Author     : Afzal Ahmad
+*/
+
+#seco_tools { float:left; width: 100%; margin:1em; }
+#seco_tools_catalog ul{
+    margin:0 !important;
+    padding:0;
+    list-style-position: inside;
+    list-style: none;
+}
+.component{
+    max-width: 530px;
+    cursor: move;
+}
+.draggedelement{
+    background:transparent !important;
+    display: block;
+    overflow: hidden;
+}
+#seco-element-options{
+    background-color: #EBF5FF;
+}
